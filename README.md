@@ -1,1 +1,1 @@
-# JavaScript-Program-to-Shuffle-Deck-of-Cards-javascript
+# JavaScript-Program-to-Shuffle-Deck-of-Cards
